@@ -1,4 +1,4 @@
-# MARZ Fullstack Web Developer Take-Home Interview
+# Fullstack Web Developer Take-Home Interview
 
 ## Application break down
 
